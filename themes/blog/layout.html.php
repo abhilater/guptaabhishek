@@ -93,7 +93,7 @@
             <div class="secondary col-md-4 col-sm-12 col-xs-12">
                 <aside class="aside section">
                     <div class="section-inner">
-                        <h2 class="heading">About</h2>
+                        <!-- <h2 class="heading">About</h2> -->
                         <div class="content" style="color: #778492;font-size:14px">
                          <img class="logo-image" style="margin-bottom:20px" src="<?php echo site_url();?>themes/blog/images/logo.png"/>
                          <?php echo blog_description();?> <br/>
