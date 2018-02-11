@@ -97,7 +97,7 @@
                         <div class="content" style="color: #778492">
                          <img class="logo-image" style="margin-bottom:20px" src="<?php echo site_url();?>themes/blog/images/logo.png"/>
                          <?php echo blog_description();?> <br/>
-                         <?php echo about_description2();?>                                  
+                         I love travelling. Travel helps me unwind, relax and figure out where life is heading. It enables me escape the rut that sets in when you do the same things every day.                                  
                         </div><!--//content-->  
                     </div><!--//section-inner-->                 
                 </aside><!--//section-->
