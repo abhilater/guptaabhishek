@@ -94,10 +94,10 @@
                 <aside class="aside section">
                     <div class="section-inner">
                         <h2 class="heading">About</h2>
-                        <div class="content" style="color: #778492">
+                        <div class="content" style="color: #778492;font-size:14px">
                          <img class="logo-image" style="margin-bottom:20px" src="<?php echo site_url();?>themes/blog/images/logo.png"/>
                          <?php echo blog_description();?> <br/>
-                         I love travelling. Travel helps me unwind, relax and figure out where life is heading. It enables me escape the rut that sets in when you do the same things every day.                                  
+                         I love travelling. Travel helps me unwind, pause and figure out where life is heading.It enables escape the rut that sets in when you do the same things every day.                                  
                         </div><!--//content-->  
                     </div><!--//section-inner-->                 
                 </aside><!--//section-->
