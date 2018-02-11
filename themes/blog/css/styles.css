@@ -203,9 +203,9 @@ iframe {
   font-weight: bold;
 }
 .header .logo {
-  width:150px;
-  height:150px;
-  overflow:hidden;
+  width:200px;
+  height:200px;
+  ;overflow:hidden;
   margin-right:20px;
   border-radius: 75px;
 }
