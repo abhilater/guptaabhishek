@@ -95,8 +95,9 @@
                     <div class="section-inner">
                         <h2 class="heading">About</h2>
                         <div class="content" style="color: #778492">
-                         <img class="logo-image" src="<?php echo site_url();?>themes/blog/images/logo.png"/>
-                         <?php echo blog_description();?>                                  
+                         <img class="logo-image" style="margin-bottom:20px" src="<?php echo site_url();?>themes/blog/images/logo.png"/>
+                         <?php echo blog_description();?> <br/>
+                         <?php echo about_description2();?>                                  
                         </div><!--//content-->  
                     </div><!--//section-inner-->                 
                 </aside><!--//section-->
