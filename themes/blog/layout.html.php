@@ -6,6 +6,7 @@
     <?php echo head_contents();?>
     <title><?php echo $title;?></title>
     <meta name="description" content="<?php echo $description; ?>"/>
+    <meta name="keywords" content="Abhishek Gupta, abhishek gupta, gupta abhishek, abhilater, Engineer, Software, Freelancer, Traveller, Weekend backpacker, Hiking, Fitness, Portfolio, Travel Diary">
     <link rel="canonical" href="<?php echo $canonical; ?>" />
     <?php if (publisher()): ?>
     <link href="<?php echo publisher() ?>" rel="publisher" /><?php endif; ?>    
