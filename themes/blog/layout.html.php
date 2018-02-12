@@ -50,11 +50,11 @@
                 <?php } ?>
                 <p class="desc"><?php echo blog_tagline();?></p>   
                 <ul class="social list-inline">
-                    <li><a href="<?php echo config('social.instagram');?>"><i class="fa fa-instagram"></i></a></li>                   
-                    <li><a href="<?php echo config('social.linkedin');?>"><i class="fa fa-linkedin"></i></a></li>
-                    <li><a href="<?php echo config('social.facebook');?>"><i class="fa fa-facebook"></i></a></li>
-                    <li><a href="<?php echo config('social.twitter');?>"><i class="fa fa-twitter"></i></a></li>
-                    <li><a href="<?php echo site_url();?>feed/rss"><i class="fa fa-rss"></i></a></li>                                    
+                    <li><a href="<?php echo config('social.instagram');?>" target="_blank"><i class="fa fa-instagram"></i></a></li>                   
+                    <li><a href="<?php echo config('social.linkedin');?>" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+                    <li><a href="<?php echo config('social.facebook');?>" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                    <li><a href="<?php echo config('social.twitter');?>" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                    <li><a href="<?php echo site_url();?>feed/rss" target="_blank"><i class="fa fa-rss"></i></a></li>                                    
                 </ul> 
             </div><!--//branding-->
             <nav id="main-nav" class="main-nav navbar-right" role="navigation" > 
